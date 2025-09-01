@@ -1,6 +1,6 @@
 # Default owner for the entire repo
-*    @<slmcin02>
+*    @slmcin02
 
-# (Optional) extra certainty on config/docs
-/.github/**    @<your-handle>
-/docs/**       @<your-handle>
+# Extra certainty on config/docs
+/.github/**    @slmcin02
+/docs/**       @slmcin02
